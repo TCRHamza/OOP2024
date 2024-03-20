@@ -1,0 +1,17 @@
+{
+    "name": "hamza/voorbeeld",
+    "require": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Voorbeeld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hmidoushvdb",
+            "email": "9018415@student.tcrmbo.nl"
+        }
+    ]
+}
